@@ -9,6 +9,8 @@ CHELSA-CMIP6 allows users to create relevant bioclimatic variables using a parti
 
 
 References: 
+
 [1] Karger, D. N., Chauvier, Y., & Zimmermann, N. E. (2023). chelsa‐cmip6 1.0: a python package to create high resolution bioclimatic variables based on CHELSA ver. 2.1 and CMIP6 data. Ecography, e06535.
+
 [2] Paz, A., Lauber, T., Crowther, T. W., & van den Hoogen, J. (2024). Improving access and use of climate projections for ecological research through the use of a new Python tool. Ecography, e07186.
 
