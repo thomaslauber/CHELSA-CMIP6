@@ -1,0 +1,4 @@
+chelsa-cmip6
+rioxarray
+folium
+geopandas
